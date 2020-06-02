@@ -1,0 +1,2 @@
+# ratmine
+RGD Intermine Instance
